@@ -79,6 +79,7 @@ Bangladesh University of Business and Technology - final year
 - Blogging about web development
 - Traveling and exploring new cultures
 
+---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MD-Moniruzzaman-Arafat&theme=darkhub" alt="MD-Moniruzzaman-Arafat" /></a> </p>
 
 <!-- - 🌱 I’m currently learning **MERN Stack**
