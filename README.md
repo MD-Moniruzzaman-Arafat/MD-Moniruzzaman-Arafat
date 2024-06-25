@@ -13,6 +13,12 @@
 
 ---
 
+## About Me
+
+I am a passionate web developer with a strong foundation in HTML, CSS, JavaScript, React. I am eager to apply my skills in real-world projects. I am enthusiastic about learning new technologies and committed to continuous improvement.
+
+---
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MD-Moniruzzaman-Arafat&theme=darkhub" alt="MD-Moniruzzaman-Arafat" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
