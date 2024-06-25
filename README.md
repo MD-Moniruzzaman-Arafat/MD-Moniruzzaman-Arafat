@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm MD Moniruzzaman Arafat</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MD-Moniruzzaman-Arafat&label=Profile%20views&color=0e75b6&style=flat" alt="MD-Moniruzzaman-Arafat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MD-Moniruzzaman-Arafat&theme=darkhub" alt="MD-Moniruzzaman-Arafat" /></a> </p>
