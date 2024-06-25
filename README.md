@@ -67,7 +67,7 @@ I am a passionate web developer with a strong foundation in HTML, CSS, JavaScrip
 ---
 ## Education
 
-**Bachelor of Science in Computer Science**
+**Bachelor of Science in Computer Science**:
 Bangladesh University of Business and Technology - final year
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MD-Moniruzzaman-Arafat&theme=darkhub" alt="MD-Moniruzzaman-Arafat" /></a> </p>
