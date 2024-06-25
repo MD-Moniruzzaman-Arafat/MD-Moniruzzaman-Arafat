@@ -21,9 +21,9 @@ I am a passionate web developer with a strong foundation in HTML, CSS, JavaScrip
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MD-Moniruzzaman-Arafat&theme=darkhub" alt="MD-Moniruzzaman-Arafat" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+<!-- - 🌱 I’m currently learning **MERN Stack**
 - 💬 Ask me about **Frontend Development**
-- 📫 How to reach me **mdmoniruzzamanarafat@gmail.com**
+- 📫 How to reach me **mdmoniruzzamanarafat@gmail.com** -->
 
 <div> <a href="https://github.com/MD-Moniruzzaman-Arafat" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:mdmoniruzzamanarafat@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
