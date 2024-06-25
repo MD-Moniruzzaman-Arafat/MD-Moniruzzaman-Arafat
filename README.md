@@ -18,6 +18,30 @@
 I am a passionate web developer with a strong foundation in HTML, CSS, JavaScript, React. I am eager to apply my skills in real-world projects. I am enthusiastic about learning new technologies and committed to continuous improvement.
 
 ---
+## Skills
+
+### Programming Languages
+
+- HTML
+- CSS
+- JavaScript
+
+### Frameworks and Libraries
+
+- React (Intermediate)
+- Node.js (Basic)
+
+### Tools and Platforms
+
+- Git
+- GitHub
+
+### Databases
+
+- MySQL (Basic)
+- MongoDB (Basic)
+
+---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MD-Moniruzzaman-Arafat&theme=darkhub" alt="MD-Moniruzzaman-Arafat" /></a> </p>
 
