@@ -3,6 +3,16 @@
 <h3 align="center">Web Developer</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MD-Moniruzzaman-Arafat&label=Profile%20views&color=0e75b6&style=flat" alt="MD-Moniruzzaman-Arafat" /> </p> -->
 
+## Contact Information
+
+- **Email:** mdmoniruzzamanarafat@gmail.com
+- **Phone:** (123) 013211864567
+- **LinkedIn:** [linkedin.com/in/md-moniruzzaman-arafat](https://www.linkedin.com/in/md-moniruzzaman-arafat-214895222/)
+- **GitHub:** [github.com/md-moniruzzaman-arafat](https://github.com/MD-Moniruzzaman-Arafat)
+<!-- - **Website:** [www.janedoe.com](https://www.janedoe.com) -->
+
+---
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MD-Moniruzzaman-Arafat&theme=darkhub" alt="MD-Moniruzzaman-Arafat" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
