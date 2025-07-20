@@ -6,7 +6,7 @@
 ## Contact Information
 
 - **Email:** mdmoniruzzamanarafat@gmail.com
-- **Phone:** 013211864567
+- **Phone:** 01321864567
 - **LinkedIn:** [linkedin.com/in/md-moniruzzaman-arafat](https://www.linkedin.com/in/md-moniruzzaman-arafat-214895222/)
 - **GitHub:** [github.com/md-moniruzzaman-arafat](https://github.com/MD-Moniruzzaman-Arafat)
 <!-- - **Website:** [www.janedoe.com](https://www.janedoe.com) -->
