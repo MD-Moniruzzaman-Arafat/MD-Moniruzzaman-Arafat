@@ -39,12 +39,6 @@ Others:      Linux (Ubuntu) • Docker (basic) • Figma
   GPA: 3.12/4.00
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MD-Moniruzzaman-Arafat&theme=darkhub" alt="MD-Moniruzzaman-Arafat" /></a> </p>
-
-<!-- - 🌱 I’m currently learning **MERN Stack**
-- 💬 Ask me about **Frontend Development**
-- 📫 How to reach me **mdmoniruzzamanarafat@gmail.com** -->
-
 
 
 <h3 align="left">Stars</h3>
