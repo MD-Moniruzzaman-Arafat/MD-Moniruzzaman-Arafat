@@ -36,10 +36,15 @@ Database:    MongoDB • Mongoose • Firebase (basic)
 Tools:       Git • GitHub • VS Code • Postman • Netlify • Vercel
 Others:      Linux (Ubuntu) • Docker (basic) • Figma
 ```
-## Education
+### 🎓 Education
 
-**Bachelor of Science in Computer Science**:
-Bangladesh University of Business and Technology - final year
+- 📍 **Bachelor of Science in Computer Science & Engineering (B.Sc. in Computer Science & Engineering (CSE))**  
+  **XYZ University** — 2021(april) – 2025(may)  
+  CGPA: 3.24/4.00
+
+- 📍 **Feni Polytechnic Institute-FPI (Diploma in Computer Science and Technology)**  
+  **ABC College** — 2016(jun) – 2020(December)  
+  GPA: 3.12/4.00
 
 ---
 
