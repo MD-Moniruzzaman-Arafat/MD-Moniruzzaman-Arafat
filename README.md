@@ -28,14 +28,14 @@
 
 ## 🛠️ Tech Toolbox
 
-
+```bash
 Languages:   JavaScript • TypeScript (basic) • HTML • CSS
 Frontend:    React.js • Redux • Context API • TailwindCSS • Bootstrap
 Backend:     Node.js • Express.js • REST API • JWT • Socket.io
 Database:    MongoDB • Mongoose • Firebase (basic)
 Tools:       Git • GitHub • VS Code • Postman • Netlify • Vercel
 Others:      Linux (Ubuntu) • Docker (basic) • Figma
-
+```
 ## Education
 
 **Bachelor of Science in Computer Science**:
