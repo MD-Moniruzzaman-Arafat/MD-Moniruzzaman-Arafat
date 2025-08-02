@@ -3,7 +3,7 @@
 <h3 align="center">MERN Stack Developer | JavaScript Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1DD100&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MongoDB+%2B+Express+%2B+React+%2B+Node;Always+learning+%F0%9F%9A%80;Let’s+build+something+amazing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1DD100&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MongoDB+%2B+Express+%2B+React+%2B+Node;Always+learning+%F0%9F%9A%80;Let’s+build+something+amazing" alt="Typing SVG" />
 </p>
 
 ## Contact Information
