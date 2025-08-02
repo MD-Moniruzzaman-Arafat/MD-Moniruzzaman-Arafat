@@ -21,7 +21,7 @@
 - 💡 A self-motivated **MERN Stack Developer** passionate about building full-stack applications
 - 💬 I write clean, scalable, and testable code using the latest JavaScript practices
 - 🌱 Currently learning **Next.js**, **Docker**, and **GraphQL**
-- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 Reach me at: **[mdmoniruzzamanarafat@gmail.com](mailto:mdmoniruzzamanarafat@gmail.com)**
 - 👨‍🎓 Life goal: **Be a consistent learner and excellent problem solver**
 
 ---
