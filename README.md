@@ -6,14 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1DD100&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MongoDB+%2B+Express+%2B+React+%2B+Node;Always+learning+%F0%9F%9A%80;Let’s+build+something+amazing" alt="Typing SVG" />
 </p>
 
-## Contact Information
-
-- **Email:** mdmoniruzzamanarafat@gmail.com
-- **Phone:** 01321864567
-- **LinkedIn:** [linkedin.com/in/md-moniruzzaman-arafat](https://www.linkedin.com/in/md-moniruzzaman-arafat-214895222/)
-- **GitHub:** [github.com/md-moniruzzaman-arafat](https://github.com/MD-Moniruzzaman-Arafat)
-<!-- - **Website:** [www.janedoe.com](https://www.janedoe.com) -->
-
 ---
 
 ## 🧑‍💻 About Me
