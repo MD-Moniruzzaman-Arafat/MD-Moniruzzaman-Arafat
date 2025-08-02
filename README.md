@@ -28,7 +28,7 @@
 
 ## 🛠️ Tech Toolbox
 
-```bash
+
 Languages:   JavaScript • TypeScript (basic) • HTML • CSS
 Frontend:    React.js • Redux • Context API • TailwindCSS • Bootstrap
 Backend:     Node.js • Express.js • REST API • JWT • Socket.io
