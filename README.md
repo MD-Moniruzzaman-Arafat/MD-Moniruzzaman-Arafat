@@ -28,6 +28,45 @@ Database:    MongoDB • Mongoose • Firebase (basic)
 Tools:       Git • GitHub • VS Code • Postman • Netlify • Vercel
 Others:      Linux (Ubuntu) • Docker (basic) • Figma
 ```
+## 🚀 Projects
+
+Here are some of the projects I've worked on:
+
+### 🔹 [MyHotel](https://github.com/yourusername/myhotel)
+A hotel management system built with MERN Stack. Includes room booking, admin dashboard, and user authentication.
+
+- 🧱 Stack: React, Node.js, Express, MongoDB, JWT
+- 🔐 Features: Admin panel, CRUD, login system
+- 🌐 Demo: [myhotel.live](https://myhotel.live)
+
+---
+
+### 🔹 [ChatRoom](https://github.com/yourusername/chatroom)
+A real-time group chat application using Socket.io.
+
+- 📦 Stack: Node.js, Express, Socket.io, HTML/CSS
+- 💬 Features: Join rooms, public chat, live user count
+- 🌐 Demo: [chatroom.live](https://chatroom.live)
+
+---
+
+### 🔹 [Task Manager](https://github.com/yourusername/task-manager)
+A simple task manager where users can add, update, and delete tasks.
+
+- ⚛️ Stack: React, LocalStorage
+- ✅ Features: Mark completed, filter tasks
+
+---
+
+### 🔹 [Weather App](https://github.com/yourusername/weather-app)
+Check current weather based on location using OpenWeatherMap API.
+
+- 🔍 Stack: HTML, CSS, JavaScript
+- 🌤️ Features: Search by city, live temperature and humidity
+
+
+
+
 ### 🎓 Education
 
 - 📍 **Bachelor of Science in Computer Science & Engineering (B.Sc. in Computer Science & Engineering (CSE))**  
