@@ -38,16 +38,7 @@ Others:      Linux (Ubuntu) • Docker (basic) • Figma
   **ABC College** — 2016(jun) – 2020(December)  
   GPA: 3.12/4.00
 
----
 
-## Interests
-
-- Learning new web technologies
-- Participating in coding challenges
-- Blogging about web development
-- Traveling and exploring new cultures
-
----
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MD-Moniruzzaman-Arafat&theme=darkhub" alt="MD-Moniruzzaman-Arafat" /></a> </p>
 
 <!-- - 🌱 I’m currently learning **MERN Stack**
