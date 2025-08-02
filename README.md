@@ -16,9 +16,13 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-I am a passionate web developer with a strong foundation in HTML, CSS, JavaScript, React. I am eager to apply my skills in real-world projects. I am enthusiastic about learning new technologies and committed to continuous improvement.
+- 💡 A self-motivated **MERN Stack Developer** passionate about building full-stack applications
+- 💬 I write clean, scalable, and testable code using the latest JavaScript practices
+- 🌱 Currently learning **Next.js**, **Docker**, and **GraphQL**
+- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
+- 👨‍🎓 Life goal: **Be a consistent learner and excellent problem solver**
 
 ---
 ## Skills
