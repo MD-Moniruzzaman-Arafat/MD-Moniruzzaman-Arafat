@@ -77,6 +77,12 @@ Check current weather based on location using OpenWeatherMap API.
   **ABC College** — 2016(jun) – 2020(December)  
   GPA: 3.12/4.00
 
+  ## 🎓 My Certificate
+
+<p align="center">
+  <img src="./PID-1699_page-0001.jpg" alt="My Certificate" width="600"/>
+</p>
+
 
 
 
