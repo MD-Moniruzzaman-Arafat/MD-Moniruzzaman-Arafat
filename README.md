@@ -69,12 +69,12 @@ Check current weather based on location using OpenWeatherMap API.
 
 ### 🎓 Education
 
-- 📍 **Bachelor of Science in Computer Science & Engineering (B.Sc. in Computer Science & Engineering (CSE))**  
-  **XYZ University** — 2021(april) – 2025(may)  
+- 📍 **Bangladesh University of Business and Technology-BUBT (B.Sc. in Computer Science & Engineering (CSE))**  
+   — 2021(april) – 2025(may)  
   CGPA: 3.24/4.00
 
 - 📍 **Feni Polytechnic Institute-FPI (Diploma in Computer Science and Technology)**  
-  **ABC College** — 2016(jun) – 2020(December)  
+   — 2016(jun) – 2020(December)  
   GPA: 3.12/4.00
 
   ## 🎓 My Certificate
