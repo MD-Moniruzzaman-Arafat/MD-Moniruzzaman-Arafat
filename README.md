@@ -28,7 +28,8 @@ Database:    MongoDB • Mongoose • Firebase (basic)
 Tools:       Git • GitHub • VS Code • Postman • Netlify • Vercel
 Others:      Linux (Ubuntu) • Docker (basic) • Figma
 ```
-## 🚀 Projects
+<!--
+ 🚀 Projects
 
 Here are some of the projects I've worked on:
 
@@ -64,7 +65,7 @@ Check current weather based on location using OpenWeatherMap API.
 - 🔍 Stack: HTML, CSS, JavaScript
 - 🌤️ Features: Search by city, live temperature and humidity
 
-
+-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🎓 Education
