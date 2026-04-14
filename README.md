@@ -28,19 +28,20 @@ Database:    MongoDB • Mongoose • Firebase (basic)
 Tools:       Git • GitHub • VS Code • Postman • Netlify • Vercel
 Others:      Linux (Ubuntu) • Docker (basic) • Figma
 ```
-<!--
- 🚀 Projects
-
+🚀 Projects
 Here are some of the projects I've worked on:
 
-### 🔹 [MyHotel](https://github.com/yourusername/myhotel)
-A hotel management system built with MERN Stack. Includes room booking, admin dashboard, and user authentication.
+### 🔹 [Brillance-react-landing-page](https://github.com/MD-Moniruzzaman-Arafat/Brillance-react-landing-page)
+This is a Simple SPA Landing Page.
 
-- 🧱 Stack: React, Node.js, Express, MongoDB, JWT
-- 🔐 Features: Admin panel, CRUD, login system
-- 🌐 Demo: [myhotel.live](https://myhotel.live)
+- Stack: React, Vite, Tailwind CSS
+- Demo: [Brillance.live](https://brillance-react-landing-page.vercel.app/)
 
 ---
+<!--
+
+
+
 
 ### 🔹 [ChatRoom](https://github.com/yourusername/chatroom)
 A real-time group chat application using Socket.io.
