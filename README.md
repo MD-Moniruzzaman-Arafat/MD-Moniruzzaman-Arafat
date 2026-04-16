@@ -56,6 +56,29 @@ This is a Task Management application
 
 ---
 
+### 🔹 [Password Manager Application](https://github.com/MD-Moniruzzaman-Arafat/lws-project-2-batch-4)
+This is a Password Management application
+```bash
+🛠️ Tech Stack: React.js | JavaScript (ES6+) | CSS / Tailwind | HTML5
+  
+🚀 Features
+- Add Passwords: Store passwords with associated website URLs, usernames, and custom categories
+- Search Functionality: Search passwords by username or website URL in real-time
+- Categorization: Organize passwords into custom categories
+- Color Coding: Assign colors to different categories for better visual organization
+- View/Hide Passwords: Toggle password visibility with a secure toggle button
+- Password Validation:
+  - Minimum password length requirement (6 characters)
+  - URL validation for website entries
+  - Form validation before submission
+- Sorting: Sort passwords by creation date or other criteria
+- Responsive Design: Fully responsive UI that works on mobile, tablet, and desktop
+- Modern UI: Dark theme with gradient backgrounds and smooth transitions
+```
+### 🌐 Demo: [Password Manager Application.live](https://lws-project-2-batch-4.vercel.app/)
+
+---
+
 ### 🔹 [Brillance-react-landing-page](https://github.com/MD-Moniruzzaman-Arafat/Brillance-react-landing-page)
 This is a Simple SPA Landing Page.
 
