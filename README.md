@@ -43,7 +43,7 @@ This is a Task Management application
   
 🚀 Features
 - Add, edit, and delete tasks
-- Each task includes a title, description, tag, status, and due date
+- Each task includes a title, description, tag, status, and date
 - Search tasks by title
 - Filter tasks by tag (design, development, etc.)
 - Filter by status (todo, in-progress, done)
