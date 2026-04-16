@@ -30,7 +30,7 @@ Others:      Linux (Ubuntu) • Docker (basic) • Figma
 ```
 🚀 Projects
 Here are some of the projects I've worked on:
-
+```bash
 ### 🔹 [Kanban-Board](https://github.com/MD-Moniruzzaman-Arafat/kanban-board)
 This is a Task Management application
 
@@ -64,8 +64,8 @@ This is a Task Management application
 - Responsive design
 - Modal-based task form
 
-### 🌐 Demo
-- [Kanban-Board.live](https://kanban-board-navy-eight.vercel.app/)
+### 🌐 Demo: [Kanban-Board.live](https://kanban-board-navy-eight.vercel.app/)
+```
 
 ### 🔹 [Brillance-react-landing-page](https://github.com/MD-Moniruzzaman-Arafat/Brillance-react-landing-page)
 This is a Simple SPA Landing Page.
