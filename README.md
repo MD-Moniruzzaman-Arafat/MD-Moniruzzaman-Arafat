@@ -56,8 +56,6 @@ Note: download backend server on your machine and start server on your machine t
 
 ---
 
----
-
 ### 🔹 [Kanban-Board](https://github.com/MD-Moniruzzaman-Arafat/kanban-board)
 This is a Task Management application
 ```bash
