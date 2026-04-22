@@ -51,7 +51,7 @@ Built a responsive e-commerce single-page application using React and REST APIs
 - Managed page navigation using state-based conditional rendering.
 - Designed reusable components with responsive UI.
 ```
-Note: download backend server on your machine and start server on your machine then live link work
+Note: download [backend server](https://github.com/MD-Moniruzzaman-Arafat/techHub-backend) on your machine and start server on your machine then live link work
 ### 🌐 Demo: [TechHub.live](https://tech-hub-beige-six.vercel.app/)
 
 ---
