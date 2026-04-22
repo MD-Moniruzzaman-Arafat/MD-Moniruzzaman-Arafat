@@ -34,6 +34,28 @@ Others:      Linux (Ubuntu) • Docker (basic) • Figma
 🚀 Projects
 Here are some of the projects I've worked on:
 
+### 🔹 [TechHub](https://github.com/MD-Moniruzzaman-Arafat/techHub)
+Built a responsive e-commerce single-page application using React and REST APIs
+```bash
+🛠️ Tech Stack: React.js | JavaScript (ES6+) | Context API | REST API | CSS / Tailwind | HTML5
+  
+🚀 Features
+- Integrated product listing API and rendered dynamic products.
+- Implemented client-side sorting (Newest, Oldest, Price).
+- Added server-side filtering by Category, Price, and Rating.
+- Developed keyword-based product search using API.
+- Built cart system with add/remove functionality.
+- Displayed live cart item count in navbar.
+- Implemented quantity update with stock limit validation.
+- Calculated real-time subtotal and order summary.
+- Managed page navigation using state-based conditional rendering.
+- Designed reusable components with responsive UI.
+```
+Note: download backend server on your machine and start server on your machine then live link work
+### 🌐 Demo: [TechHub.live](https://tech-hub-beige-six.vercel.app/)
+
+---
+
 ---
 
 ### 🔹 [Kanban-Board](https://github.com/MD-Moniruzzaman-Arafat/kanban-board)
