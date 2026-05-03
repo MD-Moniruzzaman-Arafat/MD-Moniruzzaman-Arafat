@@ -34,6 +34,14 @@ Others:      Linux (Ubuntu) • Docker (basic) • Figma
 🚀 Projects
 Here are some of the projects I've worked on:
 
+### 🔹 [Coder-Flix](https://github.com/MD-Moniruzzaman-Arafat/coder-flix)
+This is a Simple Next js project.
+
+- Stack: Next js, Tailwind CSS
+- Demo: [Coder-Flix.live](https://coder-flix-delta.vercel.app/)
+
+---
+
 ### 🔹 [TechHub](https://github.com/MD-Moniruzzaman-Arafat/techHub)
 Built a responsive e-commerce single-page application using React and REST APIs
 ```bash
